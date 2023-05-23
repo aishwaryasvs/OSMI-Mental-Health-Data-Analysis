@@ -1,4 +1,6 @@
 # OSMI-Mental-Health-Data-Analysis
+
+## Problem Setting and Definition
 Open Sourcing Mental Illness (OSMI) is a non-profit organization that aims to understand mental health in the tech sector through the Mental Health in Tech Survey.
 OSMI has launched the Mental Health in Tech Survey to gain insights into the mental health experiences and perspectives of those working in the tech industry.
 The project aims to classify individuals as having a mental illness or not based on various factors.
